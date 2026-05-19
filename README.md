@@ -6,6 +6,9 @@ I'm a Software Engineer building my version of the digital world one step at a t
 
 My public repositories are my thesis for my MSc, which is a live web application that tracks seismic activity in Greece in real-time, a 2-D game named Tower of Light with complex graphics and Mechanics, and my Web portfolio. I also have my Bachelor thesis and some more coding projects and scientific articles i wrote during my MSc courses.
 
+You can find my personal website here:
+https://loukasdrosos.github.io/portfolio-website/
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loukas-drosos-b20a4657)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drossosl@gmail.com)
 
